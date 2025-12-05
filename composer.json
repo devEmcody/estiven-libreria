@@ -1,0 +1,24 @@
+{
+    "name": "devel/estiven-libreria",
+    "description": "Libreria de funciones para el proyecto",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Devel\\EstivenLibreria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Estiven Mayhuay",
+            "email": "developerwebhairton@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Estiven\\EstivenLibreria\\EstivenLibreriaServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
