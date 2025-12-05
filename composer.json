@@ -1,5 +1,5 @@
 {
-    "name": "devel/estiven-libreria",
+    "name": "devemcody/estiven-libreria",
     "description": "Libreria de funciones para el proyecto",
     "type": "library",
     "autoload": {
