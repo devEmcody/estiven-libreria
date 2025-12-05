@@ -4,7 +4,7 @@ namespace Devemcody\EstivenLibreria;
 
 use Illuminate\Support\ServiceProvider;
 
-class LaravelServicesProvieder extends ServiceProvider
+class LaravelServicesProvider extends ServiceProvider
 {
     public function boot()
     {
