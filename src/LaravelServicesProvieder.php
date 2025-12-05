@@ -1,6 +1,6 @@
 <?php
 
-namespace Estiven\LaravelModules;
+namespace Devemcody\EstivenLibreria;
 
 use Illuminate\Support\ServiceProvider;
 

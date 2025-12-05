@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Devel\\EstivenLibreria\\": "src/"
+            "Devemcody\\EstivenLibreria\\": "src/"
         }
     },
     "authors": [
@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Estiven\\EstivenLibreria\\EstivenLibreriaServiceProvider"
+                "Devemcody\\EstivenLibreria\\LaravelServicesProvieder"
             ]
         }
     },
